@@ -1,0 +1,20 @@
+{
+    "dimension": {
+        "largeur": {
+            "cm": 122,
+            "po": 48
+        },
+        "hauteur": {
+            "cm": 183,
+            "po": 72
+        }
+    },
+    "matériaux": [
+        "60% Coton 40% Polyester",
+        ""
+    ],
+    "informations": [
+        "Lavable à la machine à l'eau froide",
+        "Sécher par culbutage à basse température"
+    ]
+}
